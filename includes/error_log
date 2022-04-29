@@ -1,0 +1,405 @@
+[31-Jul-2020 16:28:32 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php on line 7
+[31-Jul-2020 16:30:22 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php on line 7
+[31-Jul-2020 16:31:19 UTC] PHP Notice:  Undefined variable: campaign_id in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php on line 7
+[31-Jul-2020 16:32:38 UTC] PHP Notice:  Undefined index: camp_id in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php on line 5
+[31-Jul-2020 16:33:29 UTC] PHP Notice:  Undefined index: camp_id in /home/w80lebdxdmd9/public_html/dev/mailchimpAPI/includes/ajax-data.php on line 5
+[06-Aug-2020 01:54:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 23
+[06-Aug-2020 01:54:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 24
+[06-Aug-2020 01:54:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 29
+[06-Aug-2020 01:54:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 30
+[06-Aug-2020 01:54:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 35
+[06-Aug-2020 01:54:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 40
+[06-Aug-2020 01:56:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 40
+[06-Aug-2020 01:56:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 40
+[06-Aug-2020 01:57:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 40
+[06-Aug-2020 02:06:33 UTC] PHP Notice:  Undefined index: camp_id in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 10
+[06-Aug-2020 02:06:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 25
+[06-Aug-2020 02:06:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 31
+[06-Aug-2020 02:06:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 41
+[06-Aug-2020 02:07:00 UTC] PHP Notice:  Undefined index: camp_id in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 10
+[06-Aug-2020 02:07:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 25
+[06-Aug-2020 02:07:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 31
+[06-Aug-2020 02:07:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 41
+[06-Aug-2020 02:07:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 41
+[07-Aug-2020 16:02:14 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 45
+[07-Aug-2020 16:02:37 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 45
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:03:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 71
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:06:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 72
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 76
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 79
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 80
+[07-Aug-2020 16:22:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:22:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:22:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:22:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:23:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:23:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:23:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:23:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:24:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:24:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:24:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:24:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:26:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:26:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:26:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:26:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:27:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:27:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:27:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[07-Aug-2020 16:27:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 83
+[06-Oct-2020 12:16:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 47
+[06-Oct-2020 12:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/w80lebdxdmd9/public_html/dev/campaigner/includes/ajax-data.php on line 47
